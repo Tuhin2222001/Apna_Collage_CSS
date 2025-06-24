@@ -1,0 +1,43 @@
+
+.container
+{
+    height: 500px;
+    width: 200px;
+    margin: 100px;
+    padding: 20px;
+    background-color: black;
+}
+.container1
+{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50px;
+    margin: 50px;
+    text-align: center;
+}
+.container2
+{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(236, 252, 7);
+    border-radius: 50px;
+    margin: 50px;
+    text-align: center;
+}
+.container3
+{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(1, 248, 14);
+    border-radius: 50px;
+    margin: 50px;
+    text-align: center;
+}
+.stand
+{
+    height: 100px;
+    width: 50px;
+    background-color: rgb(61, 20, 1);
+     margin: 75px;
+}
